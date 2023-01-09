@@ -1,16 +1,8 @@
-# app_slideshow_bakapp
+[![Screenshot-1673248840.png](https://i.postimg.cc/8zCdb00H/Screenshot-1673248840.png)](https://postimg.cc/6yDGWYw2)
 
-A new Flutter project.
 
-## Getting Started
+[![Screenshot-1673248843.png](https://i.postimg.cc/7hD0JszS/Screenshot-1673248843.png)](https://postimg.cc/dkHLz940)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-1673248846.png](https://i.postimg.cc/rm55mXD8/Screenshot-1673248846.png)](https://postimg.cc/wyT1fr5P)
